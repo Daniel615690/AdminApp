@@ -4,7 +4,7 @@
  
  ## 📌 About the Project
  
- The **Admin NFC Door Access App** is an Android application written in **Java** that serves as an admin tool for managing **NFC-based door access control**. The app is part of a larger project that enables employees to open a **secured door** via **NFC chips, keys, or a web interface**.
+ The **Admin App** is an Android application written in **Java** that serves as an admin tool for managing **NFC-based door access control**. The app is part of a larger project that enables employees to open a **secured door** via **NFC chips, keys, or a web interface**.
  
  The app allows administrators to **manage employee access tokens** by registering or removing NFC chips linked to employees. This ensures seamless door access while maintaining **security and flexibility**.
  
