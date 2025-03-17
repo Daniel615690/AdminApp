@@ -1,0 +1,20 @@
+# Ignore Android Studio & IntelliJ IDEA files
+*.iml
+.idea/
+.idea/**
+
+# Gradle
+.gradle/
+local.properties
+*.log
+
+# Build output directories
+/build/
+*/build/
+.cxx/
+.externalNativeBuild/
+captures/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
