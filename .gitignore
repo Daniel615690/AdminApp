@@ -11,6 +11,7 @@ local.properties
 # Build output directories
 /build/
 */build/
+/app/release/
 .cxx/
 .externalNativeBuild/
 captures/
